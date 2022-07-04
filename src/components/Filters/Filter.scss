@@ -1,0 +1,25 @@
+.Filter-Wrapper{
+  margin:  0 auto;
+}
+.Filter{
+  display: flex;
+  margin: 0 40px 28px 40px;
+  padding: 4px;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.MuiButtonBase-root{
+  background-color: '#E25D28',
+
+}
+.vertical-Line{
+  height: 1px;
+  width:100vw;
+  background: rgba(242, 242, 242, 0.5);
+  margin-bottom: 24px;
+}
+
+.css-1f2kvjf-MuiFormControlLabel-root{
+  margin:0;
+}
